@@ -1,4 +1,5 @@
 # blog-for-projectF
+This is an already existing blog i have made few changes to it.
 The features that were added are:
 1. clap and like functionality 
 ---this was done using javascript---
